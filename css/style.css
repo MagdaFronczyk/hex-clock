@@ -1,0 +1,10 @@
+body {
+    font-family: 'Baloo Tammudu', cursive;
+    margin-top: 200px;
+    text-align: center;
+    color: #ffffff;
+}
+
+#clock {
+    font-size: 100px;
+}
